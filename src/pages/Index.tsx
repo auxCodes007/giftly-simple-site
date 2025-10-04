@@ -106,7 +106,7 @@ const Index = () => {
             <Card className="p-8 border-border hover:shadow-elegant transition-shadow">
               <h3 className="text-2xl font-bold mb-2">Monthly</h3>
               <p className="text-muted-foreground mb-6">Perfect for regular gifting</p>
-              <div className="text-4xl font-bold text-primary mb-6">₹6,299<span className="text-lg text-muted-foreground">/mo</span></div>
+              <div className="text-4xl font-bold text-primary mb-6">₹1,299<span className="text-lg text-muted-foreground">/mo</span></div>
               <ul className="space-y-3 mb-8">
                 <li className="flex items-center gap-2">
                   <Check className="w-5 h-5 text-primary" />
@@ -130,7 +130,7 @@ const Index = () => {
               </div>
               <h3 className="text-2xl font-bold mb-2">Quarterly</h3>
               <p className="text-muted-foreground mb-6">Best value for celebrations</p>
-              <div className="text-4xl font-bold text-primary mb-6">₹17,499<span className="text-lg text-muted-foreground">/3mo</span></div>
+              <div className="text-4xl font-bold text-primary mb-6">₹4,499<span className="text-lg text-muted-foreground">/3mo</span></div>
               <ul className="space-y-3 mb-8">
                 <li className="flex items-center gap-2">
                   <Check className="w-5 h-5 text-primary" />
@@ -155,7 +155,7 @@ const Index = () => {
             <Card className="p-8 border-border hover:shadow-elegant transition-shadow">
               <h3 className="text-2xl font-bold mb-2">Annual</h3>
               <p className="text-muted-foreground mb-6">Ultimate gifting solution</p>
-              <div className="text-4xl font-bold text-primary mb-6">₹63,999<span className="text-lg text-muted-foreground">/year</span></div>
+              <div className="text-4xl font-bold text-primary mb-6">₹10,999<span className="text-lg text-muted-foreground">/year</span></div>
               <ul className="space-y-3 mb-8">
                 <li className="flex items-center gap-2">
                   <Check className="w-5 h-5 text-primary" />
