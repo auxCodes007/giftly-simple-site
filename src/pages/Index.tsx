@@ -22,7 +22,7 @@ const Index = () => {
       <section id="hampers" className="py-20 px-4">
         <div className="container mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">Featured Gift Hampers</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">Featured Gifting Hampers</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Handpicked collections designed to delight and surprise
             </p>
