@@ -121,7 +121,7 @@ const Index = () => {
                   <span>Personalized message card</span>
                 </li>
               </ul>
-              <Button className="w-full bg-primary hover:bg-primary/90">Choose Plan</Button>
+              <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">Choose Plan</Button>
             </Card>
 
             <Card className="p-8 border-primary shadow-elegant relative">
@@ -149,7 +149,7 @@ const Index = () => {
                   <span>Save 10%</span>
                 </li>
               </ul>
-              <Button className="w-full bg-primary hover:bg-primary/90">Choose Plan</Button>
+              <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">Choose Plan</Button>
             </Card>
 
             <Card className="p-8 border-border hover:shadow-elegant transition-shadow">
@@ -174,7 +174,7 @@ const Index = () => {
                   <span>Save 20%</span>
                 </li>
               </ul>
-              <Button className="w-full bg-primary hover:bg-primary/90">Choose Plan</Button>
+              <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">Choose Plan</Button>
             </Card>
           </div>
         </div>
