@@ -174,7 +174,7 @@ const Index = () => {
                   <span>Save 20%</span>
                 </li>
               </ul>
-              <Button variant="default" className="w-full">Choose Plan</Button>
+              <Button variant="default" className="w-full">Choose from Plans</Button>
             </Card>
           </div>
         </div>
