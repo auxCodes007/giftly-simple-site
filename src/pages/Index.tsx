@@ -24,7 +24,7 @@ const Index = () => {
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">Featured Gifting Hampers</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Handpicked collections designed to delight and surprise
+              Handpicked collections designed to delight and surprise your loved ones
             </p>
           </div>
           
@@ -61,7 +61,7 @@ const Index = () => {
       <section id="categories" className="py-20 px-4 bg-muted/30">
         <div className="container mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">Gift by Occasion</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">Gift by Occasions</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Find the perfect gift for every celebration
             </p>
